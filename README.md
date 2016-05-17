@@ -10,10 +10,15 @@ xlrd setup in linux
 ------------
 
 1. download xlrd from this  https://pypi.python.org/pypi/xlrd
-2. install the xlrd
-gunzip -c xlrd.targ.gz | tar xf - # unpacks into directory xlrd
-cd xlrd
+-----------------------------------
+2. install the xlrd  ,
+----------------------------------------
+gunzip -c xlrd.targ.gz | tar xf - # unpacks into directory xlrd   ,
+------
+cd xlrd     ,
+--------
 python setup.py install
+----------------------
 
 copy the vidoes and images into associated folder under Screenly os
 -------------------------
