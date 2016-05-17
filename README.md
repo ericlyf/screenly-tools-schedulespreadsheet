@@ -26,6 +26,7 @@ the format of schedule spread sheet
 -----------------------------
 
 1. only the first sheet data will be imported into database
+
 2. the format of the spread sheet must be set as follow:
 ------------------------------------
 
